@@ -1,0 +1,28 @@
+1-Fazer  login
+2-Fazer loggout
+3-Criar cliente com nome, email, nif, trabalhos
+4-Criar utilizador do sistema (funcionário) com nome, username, email, acesso, trabalhos
+5-Registar serviço com id, descrição, criado por, clente, estado, propriedade, notas
+6-Pesquisar serviços
+7-Pesquisar cliente
+8-Pesquisar por utilizadores
+9-Listar serviços, 10, 25, 50 ou todos
+10-Listar clientes, 10, 25, 50 ou todos
+11-Listar utilizadores, 10, 25, 50 ou todos
+12-Trocar mensagens com outro utilizador do sistema
+13-Editar dados do cliente
+14-Editar dados do utilizador
+15-Editar serviço
+16-Definir acesso do utilizador do sistema
+17-Atribuir um serviço a um utilizador
+18-Mostrar os serviços do utilizador logado 
+19-Apagar cliente
+20-Apagar serviço
+21-Apagar utilizador
+22-Listar serviços concluídos
+23-Listar serviços pendente
+24-Listar serviços em espera
+25-Listar serviços a espera de material
+26-Listar serviços em progresso
+27-Reabrir serviço
+28-Detalhes do aparelho a ser arranjado ao registar serviço
